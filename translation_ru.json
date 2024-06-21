@@ -274,5 +274,6 @@
     "noMoreData": "Нет больше данных",
     "youAppliedACoupon": "Вы применили купон",
     "couponIsNeeded": "Требуется купон",
-    "youMustLogIn": "Вы должны войти в систему"
+    "youMustLogIn": "Вы должны войти в систему",
+    "selectALanguage": "Выберите язык"
 }

@@ -274,5 +274,6 @@
     "noMoreData": "No more data",
     "youAppliedACoupon": "You applied a coupon which is not eligible for this shipping",
     "couponIsNeeded": "Coupon is needed",
-    "youMustLogIn": "You must log in to access this feature"
+    "youMustLogIn": "You must log in to access this feature",
+    "selectALanguage": "Select a language"
 }  
