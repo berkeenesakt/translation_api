@@ -266,5 +266,10 @@
   "userLoggedOut": "İstifadəçi çıxış etdi",
   "clickToSee": "Baxmaq üçün klikləyin",
   "youEnteredOtpCorrectButSomethingWrong": "OTP-ni düzgün daxil etdiniz, lakin başqa bir şey səhv oldu",
-  "pressAgainToExit": "Çıxmaq üçün yenidən basın"
+  "pressAgainToExit": "Çıxmaq üçün yenidən basın",
+  "refreshComplete": "Yeniləmə tamamlandı",
+    "refreshFailed": "Yeniləmə alınmadı",
+    "pullUpToLoadMore": "Daha çox yükləmək üçün yuxarı çəkin",
+    "loading": "Yüklənir",
+    "noMoreData": "Daha çox məlumat yoxdur"
 }

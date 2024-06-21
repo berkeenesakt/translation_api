@@ -266,5 +266,10 @@
     "userLoggedOut": "User logged out",
     "clickToSee": "Click to see",
     "youEnteredOtpCorrectButSomethingWrong": "You entered the otp correctly but something else went wrong",
-    "pressAgainToExit": "Press again to exit"
+    "pressAgainToExit": "Press again to exit",
+    "refreshComplete": "Refresh complete",
+    "refreshFailed": "Refresh failed",
+    "pullUpToLoadMore": "Pull up to load more",
+    "loading": "Loading",
+    "noMoreData": "No more data"
 }  

@@ -266,5 +266,10 @@
   "userLoggedOut": "Kullanıcı oturumu kapattı",
   "clickToSee": "Görmek için tıklayın",
   "youEnteredOtpCorrectButSomethingWrong": "Otp'yi doğru girdiniz ancak başka bir sorun oluştu",
-  "pressAgainToExit": "Çıkmak için tekrar basın"
+  "pressAgainToExit": "Çıkmak için tekrar basın",
+  "refreshComplete": "Yenileme tamamlandı",
+    "refreshFailed": "Yenileme başarısız oldu",
+    "pullUpToLoadMore": "Daha fazla yüklemek için yukarı çekin",
+    "loading": "Yükleniyor",
+    "noMoreData": "Daha fazla veri yok"
 }
