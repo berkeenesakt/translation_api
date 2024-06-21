@@ -271,5 +271,8 @@
     "refreshFailed": "Обновление не удалось",
     "pullUpToLoadMore": "Потяните вверх, чтобы загрузить больше",
     "loading": "Загрузка",
-    "noMoreData": "Нет больше данных"
+    "noMoreData": "Нет больше данных",
+    "youAppliedACoupon": "Вы применили купон",
+    "couponIsNeeded": "Требуется купон",
+    "youMustLogIn": "Вы должны войти в систему"
 }

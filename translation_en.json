@@ -271,5 +271,8 @@
     "refreshFailed": "Refresh failed",
     "pullUpToLoadMore": "Pull up to load more",
     "loading": "Loading",
-    "noMoreData": "No more data"
+    "noMoreData": "No more data",
+    "youAppliedACoupon": "You applied a coupon which is not eligible for this shipping",
+    "couponIsNeeded": "Coupon is needed",
+    "youMustLogIn": "You must log in to access this feature"
 }  

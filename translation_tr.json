@@ -271,5 +271,8 @@
     "refreshFailed": "Yenileme başarısız oldu",
     "pullUpToLoadMore": "Daha fazla yüklemek için yukarı çekin",
     "loading": "Yükleniyor",
-    "noMoreData": "Daha fazla veri yok"
+    "noMoreData": "Daha fazla veri yok",
+    "youAppliedACoupon": "Bir kupon uyguladınız",
+    "couponIsNeeded": "Kupon gerekli",
+    "youMustLogIn": "Giriş yapmalısınız"
 }

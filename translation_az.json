@@ -271,5 +271,8 @@
     "refreshFailed": "Yeniləmə alınmadı",
     "pullUpToLoadMore": "Daha çox yükləmək üçün yuxarı çəkin",
     "loading": "Yüklənir",
-    "noMoreData": "Daha çox məlumat yoxdur"
+    "noMoreData": "Daha çox məlumat yoxdur",
+    "youAppliedACoupon": "You applied a coupon which is not eligible for this shipping",
+    "couponIsNeeded": "Kupon lazımdır",
+    "youMustLogIn": "Daxil olmalısınız"
 }
